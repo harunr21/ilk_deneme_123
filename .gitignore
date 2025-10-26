@@ -1,0 +1,11 @@
+# Kate editörünün geçici dosyaları
+*.kate-swp
+
+# Python önbellekleri
+__pycache__/
+*.pyc
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
